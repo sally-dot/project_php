@@ -1,2 +1,3 @@
 # project_php
-[project] hybridcloud : web server php files
+
+php로 간단한 웹페이지 구현하기 (apache, mysql)
